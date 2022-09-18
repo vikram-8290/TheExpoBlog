@@ -1,0 +1,17 @@
+.container{
+  text-align: center;
+  /* background-color:hsl(0, 0%, 39%) ; */
+}
+.tex-input{
+  text-align: center;
+  margin-bottom: 2%;
+}
+.nav-items{
+  text-align: center ;
+  display: block;
+  margin-left:2%; ;
+}
+.icon-publish{
+  margin-right:80% ;
+  color: blue;
+}

@@ -1,0 +1,13 @@
+h1, p {
+    font-family: Lato;
+  }
+.like-p{
+    padding-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.like-button{
+    border-radius: 22%; 
+    border-color: #a9a9a9;
+    font: white;
+    background-color: #f38888;
+}
